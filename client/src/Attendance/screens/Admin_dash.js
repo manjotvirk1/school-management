@@ -48,7 +48,7 @@ const Home = () => {
 
     return (
         <div style={{display:"flex"}}>
-           <div style={{height:"880px",background:"gray",width:"13%",paddingLeft:"10px"}}>
+           <div style={{height:"880px",className="bg-dark" width:"23%",paddingLeft:"10px"}}>
            
           <div>
                <ul style={{listStyleType:"none" }}>
